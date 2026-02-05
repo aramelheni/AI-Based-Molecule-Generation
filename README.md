@@ -2,7 +2,7 @@
 
 A production-ready transformer-based molecular generation and property prediction system for drug discovery, featuring reward-guided sampling, scaffold conditioning, and multi-task learning.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue)](your-kaggle-link)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue)](https://www.kaggle.com/code/aramelheni/ai-powered-drug-discovery-pipeline)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2025.9.3-green)](https://www.rdkit.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8.0-red)](https://pytorch.org/)
