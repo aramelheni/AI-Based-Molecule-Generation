@@ -91,6 +91,13 @@ Pipeline configuration dataclass and examples are available in the code.
 
 - Logging, checkpointing, memory management, and export utilities.
 
+## 👤 Authors
+
+- Aram Elheni
+- Youssef Jaziri
+- Chaima Ben Yedder
+- Zied Knani
+
 ## License
 
 [MIT](LICENSE)
